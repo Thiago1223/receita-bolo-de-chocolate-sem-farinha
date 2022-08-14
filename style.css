@@ -16,7 +16,6 @@ header{
 main{
     background-color: white;
 }
-
 .intro-container{
     display: flex;
     flex-direction: column;
@@ -26,7 +25,6 @@ main{
     padding-bottom: 32px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
 .titulo{
     width: 800px;
     text-align: center;
@@ -35,11 +33,9 @@ main{
 .subtitulo{
     font-weight: 400;
 }
-
 .info span {
     font-weight: 700;
 }
-
 .foto-bolo{
     width: 800px;
     border: 4px solid lime;
